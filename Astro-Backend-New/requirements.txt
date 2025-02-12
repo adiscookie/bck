@@ -1,0 +1,16 @@
+flask
+pymongo
+pyjwt
+axios
+requests
+pyswisseph
+pytz
+anthropic
+geopy
+python-dotenv
+pandas
+flask
+flask-socketio
+langchain-anthropic
+python-socketio
+eventlet

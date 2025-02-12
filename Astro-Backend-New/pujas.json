@@ -1,0 +1,413 @@
+{
+  "Selected Pujas": [
+    {
+      "Serial No.": 1,
+      "Puja Name": "Rudrabhishek Puja",
+      "Category": "Protection",
+      "Life Aspect": "Strength, Protection, Removal of Obstacles",
+      "Benefits": "Enhances inner strength, removes obstacles, and provides divine protection.",
+      "Ideal For": "Individuals seeking resilience and protection from negative influences.",
+      "Deity": "Lord Shiva",
+      "Rituals": [
+        "Bathing the Shiva Lingam with water, milk, honey, and ghee",
+        "Chanting Rudram and other Shiva mantras",
+        "Offering Bilva leaves and flowers"
+      ],
+      "Time": "Auspicious Muhurat on Mondays or during Maha Shivratri",
+      "Associated Planets": ["Sun"],
+      "Associated Houses": [6, 8],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 2,
+      "Puja Name": "Satyanarayan Puja",
+      "Category": "Prosperity",
+      "Life Aspect": "Wealth, Peace, Fulfillment of Wishes",
+      "Benefits": "Invokes prosperity, peace, and fulfillment of desires.",
+      "Ideal For": "Families and individuals aiming for overall well-being and prosperity.",
+      "Deity": "Lord Satyanarayan",
+      "Rituals": [
+        "Setting up the Satyanarayan idol",
+        "Chanting the Satyanarayan Katha",
+        "Offering fruits, sweets, and flowers"
+      ],
+      "Time": "Any auspicious day, especially on Mondays and Purnima",
+      "Associated Planets": ["Venus"],
+      "Associated Houses": [2],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 3,
+      "Puja Name": "Maha Ganpati Homa",
+      "Category": "Obstacle Removal",
+      "Life Aspect": "Success, Wisdom, Removal of Obstacles",
+      "Benefits": "Removes obstacles, seeks wisdom, and ensures success in endeavors.",
+      "Ideal For": "Individuals facing challenges in personal or professional life.",
+      "Deity": "Lord Ganesha",
+      "Rituals": [
+        "Performing the Homa (fire ritual)",
+        "Chanting Ganpati mantras",
+        "Offering modaks and flowers"
+      ],
+      "Time": "During Ganesh Chaturthi or auspicious Muhurats",
+      "Associated Planets": ["Mercury"],
+      "Associated Houses": [3],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 4,
+      "Puja Name": "Ganesh Chaturthi Puja",
+      "Category": "Festive Celebration",
+      "Life Aspect": "Prosperity, Wisdom, Success",
+      "Benefits": "Celebrates Lord Ganesha's birth, bringing prosperity and removing barriers.",
+      "Ideal For": "Communities and families celebrating Ganesh Chaturthi.",
+      "Deity": "Lord Ganesha",
+      "Rituals": [
+        "Installing Ganesh idols",
+        "Performing Aarti",
+        "Offering sweets and flowers"
+      ],
+      "Time": "Festive day of Ganesh Chaturthi",
+      "Associated Planets": ["Mercury"],
+      "Associated Houses": [3],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 5,
+      "Puja Name": "Navagraha Puja",
+      "Category": "Planetary Balance",
+      "Life Aspect": "Harmony, Prosperity, Balance of Planetary Influences",
+      "Benefits": "Balances the energies of all nine planets, ensuring harmony and prosperity.",
+      "Ideal For": "Individuals seeking overall planetary balance and harmony.",
+      "Deity": "Navagrahas",
+      "Rituals": [
+        "Setting up Navagraha idols",
+        "Chanting Navagraha mantras",
+        "Offering fruits and flowers"
+      ],
+      "Time": "Any auspicious day as per Panchang",
+      "Associated Planets": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Mercury",
+        "Jupiter",
+        "Venus",
+        "Saturn",
+        "Rahu",
+        "Ketu"
+      ],
+      "Associated Houses": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 6,
+      "Puja Name": "Lakshmi Puja",
+      "Category": "Prosperity",
+      "Life Aspect": "Wealth, Prosperity, Abundance",
+      "Benefits": "Invokes Goddess Lakshmi for wealth, prosperity, and abundance.",
+      "Ideal For": "Individuals and families seeking financial stability and growth.",
+      "Deity": "Goddess Lakshmi",
+      "Rituals": [
+        "Lighting diyas",
+        "Offering sweets and flowers",
+        "Chanting Lakshmi mantras"
+      ],
+      "Time": "Any auspicious day, especially Fridays and during Diwali",
+      "Associated Planets": ["Venus"],
+      "Associated Houses": [2],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 7,
+      "Puja Name": "Surya Puja",
+      "Category": "Vitality",
+      "Life Aspect": "Vitality, Authority, Leadership",
+      "Benefits": "Enhances vitality, authority, and leadership qualities by honoring the Sun.",
+      "Ideal For": "Individuals aiming to boost confidence and leadership skills.",
+      "Deity": "Surya (Sun God)",
+      "Rituals": [
+        "Offering water",
+        "Lighting a lamp",
+        "Chanting Surya mantras"
+      ],
+      "Time": "Sunrise or auspicious Muhurat",
+      "Associated Planets": ["Sun"],
+      "Associated Houses": [1],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 8,
+      "Puja Name": "Shani Shanti Puja and Jaap",
+      "Category": "Saturn Mitigation",
+      "Life Aspect": "Peace, Stability, Mitigation of Saturn's Effects",
+      "Benefits": "Mitigates the malefic effects of Saturn, seeking peace and stability.",
+      "Ideal For": "Individuals experiencing challenges related to Saturn in their chart.",
+      "Deity": "Shani (Saturn)",
+      "Rituals": [
+        "Chanting Shani mantras",
+        "Offering sesame seeds and oil",
+        "Performing Homa"
+      ],
+      "Time": "Shani Asthami or during Saturn's transit",
+      "Associated Planets": ["Saturn"],
+      "Associated Houses": [10],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 9,
+      "Puja Name": "Durga Puja",
+      "Category": "Victory Over Evil",
+      "Life Aspect": "Strength, Courage, Protection",
+      "Benefits": "Celebrates the victory of Goddess Durga over evil, seeking strength and protection.",
+      "Ideal For": "Individuals seeking empowerment and protection from negative forces.",
+      "Deity": "Goddess Durga",
+      "Rituals": [
+        "Installing Durga idols",
+        "Performing Aarti",
+        "Offering flowers and sweets"
+      ],
+      "Time": "During Durga Puja or Navaratri",
+      "Associated Planets": ["Mars", "Saturn"],
+      "Associated Houses": [6, 8],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 10,
+      "Puja Name": "Saraswati Puja",
+      "Category": "Knowledge",
+      "Life Aspect": "Wisdom, Knowledge, Artistic Talents",
+      "Benefits": "Invokes Goddess Saraswati for wisdom, knowledge, and artistic talents.",
+      "Ideal For": "Students, educators, and artists seeking intellectual and creative enhancement.",
+      "Deity": "Goddess Saraswati",
+      "Rituals": [
+        "Setting up Saraswati idols",
+        "Chanting Saraswati mantras",
+        "Offering books and musical instruments"
+      ],
+      "Time": "Vasant Panchami or auspicious Muhurat",
+      "Associated Planets": ["Mercury"],
+      "Associated Houses": [5],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 11,
+      "Puja Name": "Maha Shivratri Puja",
+      "Category": "Spiritual Growth",
+      "Life Aspect": "Spirituality, Liberation, Inner Peace",
+      "Benefits": "Celebrates Lord Shiva's cosmic dance, seeking spiritual growth and liberation.",
+      "Ideal For": "Individuals pursuing spiritual enlightenment and inner peace.",
+      "Deity": "Lord Shiva",
+      "Rituals": [
+        "Fasting",
+        "Chanting Shiva mantras",
+        "Performing Aarti and Abhishekam"
+      ],
+      "Time": "Maha Shivratri night",
+      "Associated Planets": ["Sun"],
+      "Associated Houses": [6, 8],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 12,
+      "Puja Name": "Hanuman Chalisa Path",
+      "Category": "Strength and Protection",
+      "Life Aspect": "Strength, Courage, Protection",
+      "Benefits": "Seeks strength, courage, and protection by reciting the Hanuman Chalisa.",
+      "Ideal For": "Individuals seeking mental and physical strength and protection from negative forces.",
+      "Deity": "Lord Hanuman",
+      "Rituals": [
+        "Reciting Hanuman Chalisa",
+        "Offering flowers and sweets",
+        "Lighting lamps"
+      ],
+      "Time": "Any auspicious day, especially Tuesdays and Saturdays",
+      "Associated Planets": ["Mars"],
+      "Associated Houses": [9],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 13,
+      "Puja Name": "Vastu Shanti Puja",
+      "Category": "Environmental Harmony",
+      "Life Aspect": "Peace, Prosperity, Harmonious Environment",
+      "Benefits": "Harmonizes the energies of living or workspace, ensuring peace and prosperity.",
+      "Ideal For": "Individuals or businesses looking to align their environment with cosmic energies.",
+      "Deity": "Navagrahas",
+      "Rituals": [
+        "Performing Vastu Shanti rituals",
+        "Chanting mantras",
+        "Offering flowers and rice"
+      ],
+      "Time": "After construction or renovation, during auspicious Muhurats",
+      "Associated Planets": ["All Navagrahas"],
+      "Associated Houses": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 14,
+      "Puja Name": "Navaratri Durga Puja",
+      "Category": "Festive Celebration",
+      "Life Aspect": "Strength, Courage, Success",
+      "Benefits": "Seeks Goddess Durga's blessings for strength, courage, and success during Navaratri.",
+      "Ideal For": "Individuals seeking empowerment and success during the Navaratri festival.",
+      "Deity": "Goddess Durga",
+      "Rituals": [
+        "Performing daily Aartis",
+        "Chanting Durga mantras",
+        "Offering flowers and sweets"
+      ],
+      "Time": "During Navaratri festival",
+      "Associated Planets": ["Mars", "Saturn"],
+      "Associated Houses": [6, 8],
+      "Special Conditions": {
+        "Exaltation": true,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 15,
+      "Puja Name": "Mangal Shanti Puja",
+      "Category": "Mars Mitigation",
+      "Life Aspect": "Harmony, Peace, Mitigation of Mars' Effects",
+      "Benefits": "Alleviates the malefic effects of Mars, seeking harmony and peace.",
+      "Ideal For": "Individuals experiencing challenges related to Mars in their chart.",
+      "Deity": "Lord Hanuman and Lord Mangal",
+      "Rituals": [
+        "Chanting Mangal mantras",
+        "Performing Homa",
+        "Offering red flowers and sweets"
+      ],
+      "Time": "During Mangal Nakshatra or Tuesdays",
+      "Associated Planets": ["Mars"],
+      "Associated Houses": [9],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": true
+      }
+    },
+    {
+      "Serial No.": 16,
+      "Puja Name": "Pitru Paksha Puja",
+      "Category": "Ancestor Worship",
+      "Life Aspect": "Honor, Blessings, Peace from Ancestors",
+      "Benefits": "Honors and appeases ancestors, seeking their blessings and peace.",
+      "Ideal For": "Individuals wishing to honor their forefathers and seek their blessings.",
+      "Deity": "Pitrs (Ancestors)",
+      "Rituals": [
+        "Performing Tarpan",
+        "Chanting Pitru mantras",
+        "Offering water and sesame seeds"
+      ],
+      "Time": "During Pitru Paksha (lunar fortnight dedicated to ancestors)",
+      "Associated Planets": ["Moon"],
+      "Associated Houses": [2],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 17,
+      "Puja Name": "Dhanteras Puja",
+      "Category": "Wealth Inauguration",
+      "Life Aspect": "Wealth, Prosperity, Successful Ventures",
+      "Benefits": "Seeks wealth and prosperity, inaugurating new ventures or purchases.",
+      "Ideal For": "Individuals starting new business ventures or making significant purchases.",
+      "Deity": "Lord Dhanvantari and Goddess Lakshmi",
+      "Rituals": [
+        "Lighting lamps",
+        "Chanting Dhanteras mantras",
+        "Offering gold and silver items"
+      ],
+      "Time": "On the 13th day of Kartika month",
+      "Associated Planets": ["Venus"],
+      "Associated Houses": [2],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 18,
+      "Puja Name": "Diwali Lakshmi Puja",
+      "Category": "Festive Prosperity",
+      "Life Aspect": "Wealth, Prosperity, Dispelling Darkness",
+      "Benefits": "Celebrates Diwali by worshipping Goddess Lakshmi for wealth and prosperity.",
+      "Ideal For": "Individuals and families celebrating Diwali, seeking prosperity and dispelling negativity.",
+      "Deity": "Goddess Lakshmi",
+      "Rituals": [
+        "Lighting diyas",
+        "Performing Aarti",
+        "Offering sweets and flowers"
+      ],
+      "Time": "Amavasya (New Moon) in Kartika Month",
+      "Associated Planets": ["Venus", "Sun"],
+      "Associated Houses": [2, 5],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    },
+    {
+      "Serial No.": 19,
+      "Puja Name": "Saraswati Vidya Ganpati Homa",
+      "Category": "Knowledge and Wisdom",
+      "Life Aspect": "Knowledge, Wisdom, Removal of Learning Obstacles",
+      "Benefits": "Invokes knowledge, wisdom, and removal of obstacles in learning and creativity.",
+      "Ideal For": "Students, educators, and creative individuals seeking intellectual growth.",
+      "Deity": "Goddess Saraswati and Lord Ganesha",
+      "Rituals": [
+        "Performing the Homa",
+        "Chanting Saraswati and Ganpati mantras",
+        "Offering books and musical instruments"
+      ],
+      "Time": "During Vasant Panchami or auspicious Muhurats",
+      "Associated Planets": ["Mercury"],
+      "Associated Houses": [5, 3],
+      "Special Conditions": {
+        "Exaltation": false,
+        "Debilitation": false
+      }
+    }
+  ]
+}
